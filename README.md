@@ -1,6 +1,7 @@
 <!-- Tej Prakash Singh | GitHub Profile README -->
 
 <!-- Animated Intro -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tej+Prakash+Singh+%F0%9F%91%8B;Software+Developer+%26+Full-Stack+Engineer;Java+%7C+Spring+Boot+%7C+MERN+%7C+AI;Always+Learning+%26+Building" alt="Typing Animation" />
 </p>
